@@ -1,4 +1,14 @@
 {
+  "name": "cloud-computings",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": 
+  {
+    "node": "12.10.0",
+    "yarn": "1.19.1"
+  }
+}
+{
   "name": "spasic",
   "version": "0.1.0",
   "private": true,
